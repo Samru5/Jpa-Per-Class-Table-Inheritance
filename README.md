@@ -1,0 +1,1 @@
+#This contains Jpa Per Class Table Inheritance Project
